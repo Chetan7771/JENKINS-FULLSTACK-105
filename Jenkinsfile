@@ -61,6 +61,3 @@ pipeline {
         }
     }
 }
-avatar
-Ask In Chat
-Ask In Chat
